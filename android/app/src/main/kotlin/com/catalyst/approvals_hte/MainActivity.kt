@@ -1,4 +1,4 @@
-package com.example.procurementhte_mobile
+package com.catalyst.approvals_hte
 
 import io.flutter.embedding.android.FlutterActivity
 
